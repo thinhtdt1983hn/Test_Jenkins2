@@ -1,0 +1,16 @@
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\bin\Debug\net8.0\Export40New.exe
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\bin\Debug\net8.0\Export40New.deps.json
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\bin\Debug\net8.0\Export40New.runtimeconfig.json
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\bin\Debug\net8.0\Export40New.dll
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\bin\Debug\net8.0\Export40New.pdb
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.csproj.ResolveComReference.cache
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.AssemblyInfoInputs.cache
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.AssemblyInfo.cs
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.csproj.CoreCompileInputs.cache
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.dll
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\refint\Export40New.dll
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.pdb
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\Export40New.genruntimeconfig.cache
+D:\Downloads\Demo_data\App_Test_SonarQube\Export40New\obj\Debug\net8.0\ref\Export40New.dll
