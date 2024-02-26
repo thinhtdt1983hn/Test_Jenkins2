@@ -1,0 +1,11 @@
+.vs
+obj/
+packages/
+Debug/
+bin/
+backup/
+*.bak
+*.suo
+*.user
+*.log
+MyLogs/
