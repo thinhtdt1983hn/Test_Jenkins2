@@ -18,6 +18,7 @@ namespace SoGanChuaRa
             {
                 _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
 
+//test edit sycn to jenkins
                 //Create COM Objects. Create a COM object for everything that is referenced
                 Application xlApp = new Application();
                 Workbook xlWorkbook = xlApp.Workbooks.Open(@"D:\Downloads\Demo_data\Data_temp.xlsx");
